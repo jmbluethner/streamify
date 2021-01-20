@@ -1,0 +1,18 @@
+/**
+ * @author Jan-Morris Blüthner <bluethner@heliophobix.com>
+ */
+
+/* These are the basic settings. Change those when you feel like it. */
+
+:root {
+    --headline-font: '';
+    --subline-font: '';
+    --headline-color: '';
+    --sublind-color: '';
+}
+
+/* Here you can override the positioning of the text container  */
+
+div.text_container {
+
+}
